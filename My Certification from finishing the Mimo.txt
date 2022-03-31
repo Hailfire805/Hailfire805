@@ -1,0 +1,9 @@
+My Certification from finishing the Mimo IOS Web Development, Python, and SQL Courses
+
+The curriculum included:
+HMTL, Semantic HTML
+CSS, Functions, Classes, Layout, Flexbox, Grid, Containers, Items, Bootstrap
+Javascript, Types and Comparions, Conditionals, Loops, Objects, ES6, OOP (Object-Oriented Programming), Dynamic Webpages, Querying Webpages, Events, React
+SQL, Filters, Aggregate Functions, Joins
+HTTP Requests and Headers, Errors and Exceptions, Version Control
+Git Commands, Methods, Inheritance, Scope, Arrays, Booleans, and Python, F-strings, Tuples, Dictionaries, Key Pairs, Sets, List Comprehensions, Slice Notation, Modules
